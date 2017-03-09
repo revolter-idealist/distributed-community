@@ -1,0 +1,8 @@
+{
+    "name": "revolter-idealist/distributed-community",
+    "scripts": {
+        "post-install-cmd": [
+            "ln -sfnr vendor/revolter-idealist/distributed-community web/texts/distributed-community"
+        ]
+    },
+}
